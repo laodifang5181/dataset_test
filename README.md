@@ -1,6 +1,6 @@
-# Diet4Disease: A Multi-Modal Reasoning Dataset and Framework for Disease-Oriented Diet Recommendations in LVLMs
+# D-DietMMR: A Multi-Modal Reasoning Benchmark for Disease-Oriented Diet Recommendations in LVLMs
 
-This repository contains code to reproduce the experiments in the paper "Diet4Disease: A Multi-Modal Reasoning Dataset and Framework for Disease-Oriented Diet Recommendations in LVLMs".
+This repository contains code to reproduce the experiments in the paper "D-DietMMR: A Multi-Modal Reasoning Benchmark for Disease-Oriented Diet Recommendations in LVLMs".
 
 # folders and files
 
