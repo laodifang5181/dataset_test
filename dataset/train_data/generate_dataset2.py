@@ -1,6 +1,6 @@
 import json
 
-f = open("/mnt/hpfs/liyanhao/zhanghang/dataset/convert/train_val_in.jsonl", "r", encoding="utf-8")
+f = open("", "r", encoding="utf-8")
 lines = f.readlines()
 f.close()
 
@@ -30,6 +30,6 @@ for line in lines[:]:
     t["images"] = image_list
     t_list.append(t)
 
-f = open("/mnt/hpfs/liyanhao/zhanghang/LLaMA-Factory/data/dish/train_val.json", "w", encoding="utf-8")
+f = open("", "w", encoding="utf-8")
 re = json.dump(t_list, f, ensure_ascii=False)
 f.close()
